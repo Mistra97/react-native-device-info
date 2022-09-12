@@ -341,6 +341,10 @@ const devicesWithNotch: NotchDevice[] = [
     brand: 'Samsung',
     model: 'SM-A715F',
   },
+  {
+    brand: 'Samsung',
+    model: 'SM-A226B',
+  },
 ];
 
 export default devicesWithNotch;
